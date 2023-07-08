@@ -1,0 +1,18 @@
+body[data-sidebar-size=sm] .navbar-brand-box {width: 250px!important;}
+.navbar-header {padding: 0 0px 0 0 !important;background: rgba(0, 0, 0, 0) linear-gradient(to right, #667eea 0%, #764ba2 100%) repeat scroll 0 0;}
+.header-item {color: #fff!important;}
+.navbar-brand-box {background: transparent!important;}
+.logo-txt {color:#fff!important;}
+
+
+#sidebar-menu ul li a:hover {
+    display: block;
+    padding: 0.62rem 1.5rem;
+    color: #545a6d;
+    position: relative;
+    font-size: .9rem;
+    -webkit-transition: all .4s;
+    transition: all .4s;
+    font-weight: 500;
+    background: #667eea;
+}
